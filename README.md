@@ -9,7 +9,8 @@
 1. `cd main-vue && yarn && yarn start`
 2. `cd son-react && yarn && yarn start`
 3. `cd son-vue && yarn && yarn start` 
-4. 打开 ``
+4. 打开 `http://localhost:8080/`  
+
 下面说明自己在使用`qiankun`的时候觉得重要的步骤
 ## 主应用注意事项 
 1. 主应用主要是给子应用提供容器
